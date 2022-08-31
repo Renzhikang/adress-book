@@ -1,3 +1,4 @@
 # adress-book
 learning code
-自己写的通讯录初型，功能比较简单！！！
+学习过程写的代码
+address——book——通讯录
